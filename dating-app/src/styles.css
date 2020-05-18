@@ -9,3 +9,19 @@
 .ajs-message {
   border-color: transparent !important;
 }
+
+.tab-panel {
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.member-tabset > .tab-content {
+  margin-top: -3px;
+  border: 0;
+  padding: 20px 0;
+}
+
+.ngx-gallery {
+  display: inline-block;
+  margin-bottom: 20px;
+}
